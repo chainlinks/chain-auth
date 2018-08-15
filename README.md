@@ -8,15 +8,19 @@ _Know your customer, skip in-house identity verification, all while following fi
 
 ### Start validating user identities in a few steps
 
+
 **1. Add a user**
 
    Seamlessly add users with Chainlink’s credential-based flow and post-identity requests to the API
+   
     
 **2. Retrieve Identity data**
 
    Once a user has been added, the account holder’s info can be retrieved and used at any time
+   
+   
 
-```JSON
+```Javascript
 {
   "identity": {
     "addresses": [
